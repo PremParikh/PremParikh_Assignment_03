@@ -1,0 +1,8 @@
+C:\Users\Prem Parikh\Desktop\PremParikh_Chat\obj\Debug\net6.0\PremParikh_Chat.csproj.AssemblyReference.cache
+C:\Users\Prem Parikh\Desktop\PremParikh_Chat\obj\Debug\net6.0\PremParikh_Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prem Parikh\Desktop\PremParikh_Chat\obj\Debug\net6.0\PremParikh_Chat.AssemblyInfoInputs.cache
+C:\Users\Prem Parikh\Desktop\PremParikh_Chat\obj\Debug\net6.0\PremParikh_Chat.AssemblyInfo.cs
+C:\Users\Prem Parikh\Desktop\PremParikh_Chat\obj\Debug\net6.0\PremParikh_Chat.csproj.CoreCompileInputs.cache
+C:\Users\Prem Parikh\Desktop\PremParikh_Chat\obj\Debug\net6.0\PremParikh_Chat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Prem Parikh\Desktop\PremParikh_Chat\obj\Debug\net6.0\PremParikh_Chat.RazorAssemblyInfo.cache
+C:\Users\Prem Parikh\Desktop\PremParikh_Chat\obj\Debug\net6.0\PremParikh_Chat.RazorAssemblyInfo.cs

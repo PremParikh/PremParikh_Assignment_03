@@ -1,0 +1,80 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PremParikh_Chat
+build_property.RootNamespace = PremParikh_Chat
+build_property.ProjectDir = c:\Users\Prem Parikh\Desktop\PremParikh_Chat\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\Prem Parikh\Desktop\PremParikh_Chat
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/Prem Parikh/Desktop/PremParikh_Chat/PremParikh_Chat/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlbVBhcmlraF9DaGF0XENsaWVudFxBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Prem Parikh/Desktop/PremParikh_Chat/PremParikh_Chat/Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlbVBhcmlraF9DaGF0XENsaWVudFxQYWdlc1xDb3VudGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Prem Parikh/Desktop/PremParikh_Chat/PremParikh_Chat/Client/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlbVBhcmlraF9DaGF0XENsaWVudFxQYWdlc1xGZXRjaERhdGEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Prem Parikh/Desktop/PremParikh_Chat/PremParikh_Chat/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlbVBhcmlraF9DaGF0XENsaWVudFxQYWdlc1xJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Prem Parikh/Desktop/PremParikh_Chat/PremParikh_Chat/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlbVBhcmlraF9DaGF0XENsaWVudFxTaGFyZWRcU3VydmV5UHJvbXB0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Prem Parikh/Desktop/PremParikh_Chat/PremParikh_Chat/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlbVBhcmlraF9DaGF0XENsaWVudFxfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Prem Parikh/Desktop/PremParikh_Chat/PremParikh_Chat/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlbVBhcmlraF9DaGF0XENsaWVudFxTaGFyZWRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-faxyzoma0j
+
+[c:/Users/Prem Parikh/Desktop/PremParikh_Chat/PremParikh_Chat/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlbVBhcmlraF9DaGF0XENsaWVudFxTaGFyZWRcTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-7m1redq19o
+
+[c:/Users/Prem Parikh/Desktop/PremParikh_Chat/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Prem Parikh/Desktop/PremParikh_Chat/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Prem Parikh/Desktop/PremParikh_Chat/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Prem Parikh/Desktop/PremParikh_Chat/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Prem Parikh/Desktop/PremParikh_Chat/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Prem Parikh/Desktop/PremParikh_Chat/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Prem Parikh/Desktop/PremParikh_Chat/PremParikh_Chat/Server/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlbVBhcmlraF9DaGF0XFNlcnZlclxQYWdlc1xFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Prem Parikh/Desktop/PremParikh_Chat/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zii6jxxygt
